@@ -45,7 +45,7 @@ O desenvolvimento do projeto incluirá as seguintes etapas:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/Data-Warehouse-BigQuery.git
+   git clone https://github.com/nayyarabernardo/Data-Warehouse-BigQuery/.git
    ```
 
 2. Instale as dependências necessárias:
